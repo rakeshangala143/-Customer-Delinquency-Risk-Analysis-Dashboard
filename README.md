@@ -44,16 +44,6 @@ This project focuses on analyzing customer delinquency risk using Power BI. The 
 - Region
 - Time Period
 
-## 📷 Dashboard Screenshots
-
-### Overview Dashboard
-![Overview Dashboard](screenshots/dashboard1.png)
-
-### Risk Analysis Dashboard
-![Risk Analysis](screenshots/dashboard2.png)
-
-### Customer Insights Dashboard
-![Customer Insights](screenshots/dashboard3.png)
 
 ## 📈 Key Insights
 
